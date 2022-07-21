@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.marcinaman.riderreproduer.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.marcinaman.riderreproduer.MyBundle
 
 class MyApplicationService {
 
